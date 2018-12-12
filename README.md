@@ -5,8 +5,8 @@ name : <...>
 summary : <...>
 
 <2>
-name : <...>
-summary : <...>
+name : new
+summary : การสร้าง branch, merge และ pull-req
 
 <3>
 name : <...>
